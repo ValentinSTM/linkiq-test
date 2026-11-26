@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LinkIQ TEST til VVS-dialog
 // @namespace    linkiq-test
-// @version      0.25
+// @version      0.26
 // @description  Lægger LinkIQ-rapporten på sagen: filer, Ny aktivitet med faste ord og status.
 // @match        https://vvsdialog.kmd.dk/*
 // @downloadURL  https://valentinstm.github.io/linkiq-test/linkiq-vvs.user.js
